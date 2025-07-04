@@ -1,7 +1,5 @@
 # Lab 3 – Thuật Toán Di Truyền (Genetic Algorithm)
 
-[⬇️ Tải notebook **Lab3.ipynb**](sandbox:/mnt/data/lab3.ipynb)
-
 ## Công nghệ sử dụng
 - Python 3.x
 - Jupyter Notebook (.ipynb)
